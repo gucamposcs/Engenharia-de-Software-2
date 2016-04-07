@@ -1,3 +1,8 @@
 Projeto de Engenharia de Software 2
 
-Objetivo do Projeto: 
+Objetivo do Projeto: Criar um sistema que implemente uma função que calcule o volume de um cilindro.
+
+Seguindo a categorização de Kano:
+
+Requisitos subconscientes: O sistema deve executar de maneira correta em todas as suas instâncias e deve estar sempre disponível para uso.
+Requisitos inconscientes: 

@@ -1,7 +1,7 @@
 Entrevista com o intuito de levantar requisitos para um sistema que calcule o volume de um Cilindro
 
 Nome do Entrevistado: Icaro Pavan Zago
-Duração da entrevista: 20min
+Duração da entrevista: 15min
 
 #1 - O que você gostaria que seu sistema contemplasse? 
 	Eu gostaria que o sistema calculasse o volume de um sólido cone.

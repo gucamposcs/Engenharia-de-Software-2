@@ -1,0 +1,42 @@
+﻿Documento de Especificação
+
+
+Histórico de Revisão
+Sumário
+1. Introdução
+   1. Escopo
+O sistema objetiva calcular o volume de um sólido geométrico cilíndrico.
+
+
+   1. Descrição dos Stakeholders
+Cliente - Rafael Martins : tem interesse em trabalho artístico em sua casa e para isso, o sistema desenvolvido o ajuda a medir a quantidade de matéria prima necessária.
+
+
+Engenheiro de Software - Gustavo Campos: É estudante de Análise e Desenvolvimento de Sistemas e está iniciando pequenos projetos de Engenharia de Software afim de ganhar experiência 
+
+
+
+
+1. Descrição geral
+   1. Descrição do público-alvo
+        O sistema auxilia o trabalho de uma pessoa interessada em produzir vasos de pvc para plantas, com isso saber o quanto de terra caberá em cada um, além de poder medir o quanto de material precisará para produzir tal produto.
+
+
+   1. Restrições
+O sistema deve ser entregue contemplando todas as necessidades do contratante dentro do prazo de um mês e meio, contando a partir do dia 06/04/2016.
+
+
+1. Requisitos
+   1. Requisitos funcionais
+      1. O sistema deverá ser simples com o mínimo de janelas possível, logo, o software em sua tela inicial já exibirá os campos para preenchimento das informações do cilindro.
+      2. Exibir o valor calculado do volume.
+      3. Após confirmação do usuário, voltar a tela de calculo, para preenchimento de novas informações.
+      4. O sistema deve gerar um histórico de volumes para que o usuário possa saber quais foram os tipos de vasos produzidos, sendo que ele pode nomear cada registro.
+
+
+   1. Requisitos de Qualidade
+O sistema foi desenvolvido na linguagem C++
+1. Apêndices
+   1. Modelos
+   2. Glossário
+1. Índice

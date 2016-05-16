@@ -7,6 +7,12 @@ Cilindro::Cilindro()
 	this->altura = 0.00;
 };
 
+double Cilindro::areaBase(double diametro) const
+{
+	double raio = diametro/2;
+	return M_PI * (raio*raio);
+};
+
 double Cilindro::VolumeCilindro() const
 {
 	return this->areaBase * this->altura;
@@ -23,11 +29,7 @@ double Cilindro::AreaTotalCilindro(double areaLateral) const
 	return areaLateral + (2 * (this->areabase));
 };
 
-double Cilindro::areaBase(double diametro) const
-{
-	double raio = diametro/2;
-	return M_PI * (raio*raio);
-};
+
 
 double Cilindro::getAreaBase()
 {

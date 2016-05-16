@@ -16,10 +16,10 @@ class Cilindro
 		double getAltura();
 		void setAreaBase(double newAltura);
 		
-		double VolumeCilindro() const;
-		double AreaLateralCilindro(double diametro) const;
-		double AreaTotalCilindro(double diametro) const;
-		double AreaBase(double diametro) const;
+		double CalcularVolumeCilindro() const;
+		double CalcularAreaLateralCilindro(double diametro) const;
+		double CalcularAreaTotalCilindro(double diametro) const;
+		double CalcularAreaBase(double diametro) const;
 };
 
 #endif

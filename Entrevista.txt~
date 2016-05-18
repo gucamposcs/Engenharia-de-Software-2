@@ -1,19 +1,19 @@
 Entrevista com o intuito de levantar requisitos para um sistema que calcule o volume de um Cilindro
 
-Nome do Entrevistado: Icaro Pavan Zago
+Nome do Entrevistado: Rafael Martins
 Duração da entrevista: 20min
 
 #1 - O que você gostaria que seu sistema contemplasse? 
-	Eu gostaria que o sistema calculasse o volume de um sólido cone.
+	Eu gostaria que o sistema calculasse o volume de um sólido cilindrico.
 
 #2 - O sistema deve calcular alguma outra variável, para se realizar o calculo do volume?
 	Sim, eu pretendo inserir o diâmetro da base e não o raio, o qual o sistema deve calcular.
 
 #3 - Em quanto tempo você precisa do software funcionando?
-	Gostaria de receber o software em um mês
+	Gostaria de receber o software em no máximo 3 meses.
 
 #4 - Quanto dinheiro você pretende investir no sistema?
-	Meu orçamento inicial é de R$1.000,00
+	Meu orçamento inicial é de por volta de R$3.000,00
 
 #5 - Você prefere que a aplicação seja desktop ou web, para poder utilizar em vários lugares mais facilmente?
 	Desktop, não utilizarei o sistema em muitas maquinas.
